@@ -34,3 +34,5 @@ Tablas donde se insertaron los datos: DBO[Cita]
 DBO[CitaDetalle]
 
 ![image](https://github.com/user-attachments/assets/51499b1c-eea1-4c5e-b48e-653fdf18dcf3)
+
+Link video explicativo: https://youtu.be/758QhYDpyhs 
